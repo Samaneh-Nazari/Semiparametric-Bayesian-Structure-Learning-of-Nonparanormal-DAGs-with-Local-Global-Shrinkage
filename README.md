@@ -1,1 +1,1 @@
-# Semiparametric-Bayesian-Structure-Learning-of-Nonparanormal-DAGs-with-Local-Global-Shrinkage
+This repository provides the implementation of a novel semiparametric Bayesian framework for structure learning of nonparanormal DAGs. It utilizes local-global shrinkage priors to efficiently and accurately infer causal relationships from complex data.
